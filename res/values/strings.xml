@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DetectImageSample</string>
+    <string name="no_crossing">Ｎｏ　ｃｒｏｓｓｉｎｇ　ｂｙ　ｐｅｄｅｓｔｒｉａｎｓ</string>
+    <string name="closure">Ｃｌｏｓｅｄ　ｔｏ　ｖｅｈｉｃｕｌａｒ　ｔｒａｆｆｉｃ</string>
+</resources>
